@@ -1,0 +1,58 @@
+.Navbar {
+    background-color: orange;
+    /* background-image: url("assets/bgpic.jpg"); */
+    text-align: right;
+    padding: 1%;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;  
+    
+}
+.content {
+    background-image: url("assets/images.png");
+    /* background:wheat; */
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    background-size: 100%;
+    
+
+}
+.bio {
+    padding: 1%;  
+}
+.name {
+  float: left;
+  text-align: right;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blue;
+}
+.Resume {
+    font-size: inherit;
+    font-weight: bold;
+    text-decoration-color: red;
+}
+.recentProjects {
+    padding: 1%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blue;
+}
+.image  {
+    height: 250px;
+    width: 250px;
+}
+.info {
+    padding: 1%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+   
+
+}
