@@ -12,7 +12,7 @@
 .content {
     background-image: url("assets/bk.jpg.crdownload");
     /* background:wheat; */
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     backface-visibility: visible;
     background-size: 100%;
     
@@ -59,6 +59,14 @@
     
     max-height: 70%;
     border-radius: 70%;
+}
 
-
+.project {
+    text-align: center;
+    text-decoration: white;
+    text-decoration-thickness: 1em;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    color:orange;
+    font-weight: bold;
 }
