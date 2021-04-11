@@ -1,5 +1,5 @@
 .Navbar {
-    background-color: orange;
+    /* background-color:white; */
     /* background-image: url("assets/bgpic.jpg"); */
     text-align: right;
     padding: 1%;
@@ -10,7 +10,7 @@
     
 }
 .content {
-    background-image: url("assets/images.png");
+    background-image: url("assets/bk.jpg.crdownload");
     /* background:wheat; */
     background-repeat: no-repeat;
     backface-visibility: visible;
@@ -53,6 +53,12 @@
     font-weight: bold;
     font-size: larger;
     color: white;
-   
+}
+
+#profileimg {
+    
+    max-height: 70%;
+    border-radius: 70%;
+
 
 }
